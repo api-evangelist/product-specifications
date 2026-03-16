@@ -1,13 +1,21 @@
+aid: product-specifications
 name: Product Specifications
-description: Detailed technical specifications and requirements documentation for
-  products. Teams use it to align stakeholders, track progress, and adapt to changing
-  requirements throughout the project lifecycle.
-url: null
+description: >-
+  Product specifications are detailed technical specifications and requirements
+  documentation for products, helping teams align stakeholders and track
+  progress throughout the product lifecycle.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Documentation
-- Product Management
-- Technical Specifications
-created: '2025'
-modified: '2025'
+  - Documentation
+  - Product Management
+  - Technical Specifications
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/product-specifications/refs/heads/main/apis.yml
+created: '2026-03-16'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
